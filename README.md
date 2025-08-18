@@ -37,32 +37,44 @@
 
 ## 📂 Featured Projects  
 
-<p align="center">
-  <a href="https://github.com/atul-2192/college-prediction-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-2192&repo=college-prediction-system&theme=tokyonight&hide_border=true&show_owner=true" width="400"/>
-  </a>
-  <a href="https://github.com/atul-2192/OTP-Service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-2192&repo=OTP-Service&theme=tokyonight&hide_border=true&show_owner=true" width="400"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/atul-2192/LowLevelDesign-CarRentalSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-2192&repo=LowLevelDesign-CarRentalSystem&theme=tokyonight&hide_border=true&show_owner=true" width="400"/>
-  </a>
-  <a href="https://github.com/atul-2192/LowLevelDesign-ATMDEsign">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-2192&repo=LowLevelDesign-ATMDEsign&theme=tokyonight&hide_border=true&show_owner=true" width="400"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/atul-2192/Design-Pattern/tree/main/Structural%20Pattern/AdapterPattern/NotificationService">
-    <img src="https://img.shields.io/badge/Adapter%20Pattern%20-%20Notification%20Service-302b63?style=for-the-badge&logo=gitbook&logoColor=00ffff" />
-  </a>
-  <a href="https://github.com/atul-2192/Design-Pattern/tree/main/Structural%20Pattern/Decorator%20Pattern/PaymentService">
-    <img src="https://img.shields.io/badge/Decorator%20Pattern%20-%20Payment%20Service-0f0c29?style=for-the-badge&logo=gitbook&logoColor=00ffff" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/atul-2192/college-prediction-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-2192&repo=college-prediction-system&theme=tokyonight&hide_border=true" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/atul-2192/OTP-Service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-2192&repo=OTP-Service&theme=tokyonight&hide_border=true" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/atul-2192/LowLevelDesign-CarRentalSystem">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-2192&repo=LowLevelDesign-CarRentalSystem&theme=tokyonight&hide_border=true" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/atul-2192/LowLevelDesign-ATMDEsign">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-2192&repo=LowLevelDesign-ATMDEsign&theme=tokyonight&hide_border=true" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/atul-2192/Design-Pattern/tree/main/Structural%20Pattern/AdapterPattern/NotificationService">
+        <img src="https://img.shields.io/badge/Adapter%20Pattern%20--%20Notification%20Service-302b63?style=for-the-badge&logo=gitbook&logoColor=00ffff" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/atul-2192/Design-Pattern/tree/main/Structural%20Pattern/Decorator%20Pattern/PaymentService">
+        <img src="https://img.shields.io/badge/Decorator%20Pattern%20--%20Payment%20Service-0f0c29?style=for-the-badge&logo=gitbook&logoColor=00ffff" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 🏗️ System Design & Architecture  
