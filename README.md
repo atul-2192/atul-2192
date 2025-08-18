@@ -3,7 +3,10 @@
 
 <!-- Header: animated wave + gradient space colors -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Atul%20Kumar%20Singh&fontAlign=50&fontSize=48&fontColor=00FFFF&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Atul%20Kumar%20Singh&fontAlign=50&fontSize=60&font=Roboto%20Mono&fontColor=00FFFF&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling" alt="header" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Atul%20Kumar%20Singh&fontAlign=50&fontSize=65&font=JetBrains%20Mono&fontColor=00FFFF&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling" alt="header" />
 </p>
 
 <!-- Typing line (rotates phrases) -->
