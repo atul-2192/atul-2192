@@ -33,9 +33,59 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,aws,docker,git,kafka&theme=dark" />
 </p>
 
----
+## 📂 Featured Projects  
 
-## 📂 Featured Projects 🔥 My most impactful work, blending **scalability** and **clean design**: - 🔹 [**College Prediction System**](https://github.com/atul-2192/college-prediction-system) *Spring Boot | Kafka | AWS | iTextPDF* – A distributed backend generating **personalized college recommendations**. - 🔹 [**OTP Service**](https://github.com/atul-2192/OTP-Service) *Spring Boot | Security* – Secure microservice for OTP generation, validation, and delivery. - 🔹 [**Car Rental System – LLD**](https://github.com/atul-2192/LowLevelDesign-CarRentalSystem) *System Design | OOP* – Modeled a real-world car rental service with vehicle catalog & booking modules. - 🔹 [**ATM System – LLD**](https://github.com/atul-2192/LowLevelDesign-ATMDEsign) *OOP | UML | SOLID* – A modular design for ATM software with card authentication and cash flow. - 🔹 [**Notification Service (Adapter Pattern)**](https://github.com/atul-2192/Design-Pattern/tree/main/Structural%20Pattern/AdapterPattern/NotificationService) *Adapter Pattern* – Flexible notification service supporting multiple providers. - 🔹 [**Payment Service (Decorator Pattern)**](https://github.com/atul-2192/Design-Pattern/tree/main/Structural%20Pattern/Decorator%20Pattern/PaymentService) *Decorator Pattern* – Extensible payment service with logging & validation layers. ---
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+      <b>🔹 <a href="https://github.com/atul-2192/college-prediction-system">College Prediction System</a></b>  
+      <p><i>Spring Boot | Kafka | AWS | iTextPDF</i></p>  
+      <p>A distributed backend generating <b>personalized college recommendations</b>.</p>
+
+    </td>
+    <td width="50%" valign="top">
+
+      <b>🔹 <a href="https://github.com/atul-2192/OTP-Service">OTP Service</a></b>  
+      <p><i>Spring Boot | Security</i></p>  
+      <p>Secure microservice for <b>OTP generation, validation, and delivery</b>.</p>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+      <b>🔹 <a href="https://github.com/atul-2192/LowLevelDesign-CarRentalSystem">Car Rental System – LLD</a></b>  
+      <p><i>System Design | OOP</i></p>  
+      <p>Modeled a <b>real-world car rental service</b> with vehicle catalog & booking modules.</p>
+
+    </td>
+    <td width="50%" valign="top">
+
+      <b>🔹 <a href="https://github.com/atul-2192/LowLevelDesign-ATMDEsign">ATM System – LLD</a></b>  
+      <p><i>OOP | UML | SOLID</i></p>  
+      <p>Designed a <b>modular ATM software</b> covering authentication, transactions & cash flow.</p>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+      <b>🔹 <a href="https://github.com/atul-2192/Design-Pattern/tree/main/Structural%20Pattern/AdapterPattern/NotificationService">Notification Service (Adapter Pattern)</a></b>  
+      <p><i>Design Pattern | Adapter</i></p>  
+      <p>Implemented the <b>Adapter Pattern</b> for flexible notifications with multiple providers.</p>
+
+    </td>
+    <td width="50%" valign="top">
+
+      <b>🔹 <a href="https://github.com/atul-2192/Design-Pattern/tree/main/Structural%20Pattern/Decorator%20Pattern/PaymentService">Payment Service (Decorator Pattern)</a></b>  
+      <p><i>Design Pattern | Decorator</i></p>  
+      <p>Applied the <b>Decorator Pattern</b> to extend payment service with logging & validation.</p>
+
+    </td>
+  </tr>
+</table>
+
 
 ## 🏗️ System Design & Architecture  
 
