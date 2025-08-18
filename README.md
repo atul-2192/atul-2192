@@ -51,7 +51,36 @@
 - Designed **real-time RESTful APIs** replacing batch jobs  
 - Automated **personalized recommendation emails & PDF reports**  
 
+## 📂 Featured Repositories  
+
+### 🔹 [OTP Service](https://github.com/atul-2192/OTP-Service)  
+📌 *Spring Boot | Security | Microservice*  
+A secure microservice for **generating, validating, and delivering OTPs** with a focus on authentication flows.  
+
 ---
+
+### 🔹 [Car Rental System – Low Level Design](https://github.com/atul-2192/LowLevelDesign-CarRentalSystem)  
+📌 *System Design | OOP | Scalability*  
+Modeled a **real-world car rental platform** using LLD principles – vehicle catalog, booking, and pricing modules.  
+
+---
+
+### 🔹 [ATM Design – Low Level Design](https://github.com/atul-2192/LowLevelDesign-ATMDEsign)  
+📌 *Object-Oriented Design | UML | SOLID Principles*  
+Designed a **modular ATM software system**, covering card authentication, transactions, and cash management.  
+
+---
+
+### 🔹 [Adapter Pattern – Notification Service](https://github.com/atul-2192/Design-Pattern/tree/main/Structural%20Pattern/AdapterPattern/NotificationService)  
+📌 *Design Patterns | Structural Pattern*  
+Implemented the **Adapter Pattern** for a flexible notification service supporting multiple message providers.  
+
+---
+
+### 🔹 [Decorator Pattern – Payment Service](https://github.com/atul-2192/Design-Pattern/tree/main/Structural%20Pattern/Decorator%20Pattern/PaymentService)  
+📌 *Design Patterns | Structural Pattern*  
+Applied the **Decorator Pattern** to extend payment service functionality dynamically (logging, validation, etc.).  
+
 
 ## 🏗️ System Design & Architecture  
 
@@ -68,7 +97,8 @@
 ## 📊 Problem Solving & DSA  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/atul2192?theme=dark&ext=contest" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/atulkumarsingh952?theme=dark&ext=contest" />
+
 </p>
 
 - ✅ **1250+ LeetCode problems solved** (Rating: 1689, Top 8K Global Rank)  
