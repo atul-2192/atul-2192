@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&duration=3500&color=00FFFF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%40+Cognizant;Java+17+%7C+Spring+Boot+3.x+%7C+Kafka+%7C+AWS;System+Design+%7C+Event-Driven+%7C+Distributed+Systems;DSA+%26+Problem+Solving+%E2%80%94+1250%2B+LC+%2F+900%2B+GFG" alt="typing" />
 </p>
-<h3 align="center">🚀 Backend Engineer @ Cognizant | Java • Spring Boot • Kafka • AWS | System Design Enthusiast</h3>
+<h3 align="center">🚀 Backend Engineer  | Java • Spring Boot • Kafka • AWS | System Design Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:atulkumarsingh952@gmail.com"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00ffff" /></a>
