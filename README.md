@@ -1,17 +1,13 @@
-<!-- Profile README -->
-
-
-<!-- Header: animated wave + gradient space colors -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Atul%20Kumar%20Singh&fontAlign=50&fontSize=40&font=Roboto%20Mono&fontColor=00FFFF&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Atul%20Kumar%20Singh&fontAlign=50&fontSize=40&font=Roboto%20Mono&fontColor=00FFFF&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling" />
 </p>
 
-
-<!-- Typing line (rotates phrases) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&duration=3500&color=00FFFF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%40+Cognizant;Java+17+%7C+Spring+Boot+3.x+%7C+Kafka+%7C+AWS;System+Design+%7C+Event-Driven+%7C+Distributed+Systems;DSA+%26+Problem+Solving+%E2%80%94+1250%2B+LC+%2F+900%2B+GFG" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&duration=3500&color=00FFFF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%40+Cognizant;Distributed+Systems+%7C+Kafka+%7C+Spring+Boot;Building+Reliable+%26+Scalable+Systems;DSA+%7C+System+Design+%7C+Problem+Solving" />
 </p>
-<h3 align="center">🚀 Backend Engineer  | Java • Spring Boot • Kafka • AWS | System Design Enthusiast</h3>
+
+<h3 align="center">⚡ Backend Engineer | Distributed Systems | Java • Spring Boot • Kafka • AWS</h3>
 
 <p align="center">
   <a href="mailto:atulkumarsingh952@gmail.com"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00ffff" /></a>
@@ -21,54 +17,75 @@
 
 ---
 
-## 🌌 About Me  
+## 🧠 About Me  
 
-🔹 **Backend Engineer** with 1.5+ years of experience designing **enterprise-grade Java microservices**.  
-🔹 Passionate about **System Design, Event-Driven Architectures, and Distributed Systems**.  
-🔹 **DSA Enthusiast** with 1250+ LeetCode & 900+ GFG problems solved.  
-🔹 Certified **AWS Cloud Practitioner (Feb 2025)**.  
+Backend Engineer at **Cognizant (Client: JP Morgan & Chase)** with hands-on experience building **high-throughput, fault-tolerant distributed systems**.
+
+- ⚙️ Designed **retry orchestration & state management systems** for long-running workflows  
+- 📉 Reduced system failures by **85%** and improved retry performance by **15%**  
+- ⚡ Optimized APIs from **2.6s → 310ms latency** through deep production debugging  
+- 🧩 Strong in **data structures, system design, and scalable backend architecture**  
+
+I enjoy solving **hard backend problems** — consistency, retries, latency, and distributed failures.
 
 ---
 
-## 🛠️ Tech Arsenal  
+## 🏗️ What I Work On  
+
+### 🔹 Distributed Systems Engineering
+- Event-driven architectures using **Kafka & RabbitMQ**
+- Idempotent workflows, retry strategies, and failure recovery
+- Async pipelines with S3-backed payload storage
+
+### 🔹 Backend Development
+- Java 17, Spring Boot 3.x, Spring WebFlux  
+- REST APIs, API Gateway, authentication systems (JWT, OAuth2)
+
+### 🔹 Observability & Reliability
+- Distributed tracing, centralized logging  
+- Metrics: **p95 latency, error rate, system health**
+- Debugging production bottlenecks & performance issues  
+
+---
+
+## 🚀 Featured Work  
+
+### 🔥 SwitchBoard — Distributed Microservices Platform
+- 7+ microservices with API Gateway architecture  
+- Centralized observability (logs, metrics, tracing)  
+- Reduced API latency by **84% (p90)**  
+- Secure auth with **JWT + OAuth2 + Redis TTL OTP**  
+- CI/CD pipelines with GitHub Actions  
+
+---
+
+### 🧠 Lamicons — Assessment & Learning Platform
+- Designed **8 microservices system** with service discovery  
+- Built **real-time coding engine (Judge0 integration)**  
+- Used Kafka to offload async workflows → improved throughput  
+- Applied **Strategy & Adapter patterns** for extensibility  
+- Mentoring **6 interns + 2 developers**
+
+---
+
+### ⚙️ System Design & Architecture
+- Outbox pattern for data consistency  
+- Event-driven pipelines for scalability  
+- Config management using Spring Cloud Config + AWS Parameter Store  
+
+---
+
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,aws,docker,git,kafka&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,kafka,aws,docker,git&theme=dark" />
 </p>
 
----
-
-## 📂 Featured Projects  
-
-🔥 My most impactful work, blending **scalability** and **clean design**:  
-
-- 🔹 [**College Prediction System**](https://github.com/atul-2192/college-prediction-system)  
-   *Spring Boot | Kafka | AWS | iTextPDF* – A distributed backend generating **personalized college recommendations**.  
-
-- 🔹 [**OTP Service**](https://github.com/atul-2192/OTP-Service)  
-   *Spring Boot | Security* – Secure microservice for OTP generation, validation, and delivery.  
-
-- 🔹 [**Car Rental System – LLD**](https://github.com/atul-2192/LowLevelDesign-CarRentalSystem)  
-   *System Design | OOP* – Modeled a real-world car rental service with vehicle catalog & booking modules.  
-
-- 🔹 [**ATM System – LLD**](https://github.com/atul-2192/LowLevelDesign-ATMDEsign)  
-   *OOP | UML | SOLID* – A modular design for ATM software with card authentication and cash flow.  
-
-- 🔹 [**Notification Service (Adapter Pattern)**](https://github.com/atul-2192/Design-Pattern/tree/main/Structural%20Pattern/AdapterPattern/NotificationService)  
-   *Adapter Pattern* – Flexible notification service supporting multiple providers.  
-
-- 🔹 [**Payment Service (Decorator Pattern)**](https://github.com/atul-2192/Design-Pattern/tree/main/Structural%20Pattern/Decorator%20Pattern/PaymentService)  
-   *Decorator Pattern* – Extensible payment service with logging & validation layers.  
-
----
-
-## 🏗️ System Design & Architecture  
-
-💡 Skilled in building **cloud-ready, event-driven systems**:  
-- Kafka-based event streaming  
-- Outbox pattern for consistency  
-- Microservices orchestration (Feign Clients)  
-- AWS S3 for cloud storage  
+**Core Strengths**
+- Data Structures & Algorithms  
+- Distributed Systems  
+- Backend Optimization  
+- Debugging & Performance Tuning  
 
 ---
 
@@ -78,9 +95,9 @@
   <img src="https://leetcard.jacoblin.cool/atulkumarsingh952?theme=dark&ext=heatmap" width="80%" />
 </p>
 
-- ✅ **1250+ LeetCode** problems solved (Top 8K Global Rank)  
-- ✅ **900+ GFG** problems solved (Top 16 in College)  
-- ✅ Strong in **DSA, Graphs, Dynamic Programming, System Design**  
+- 🟢 1500+ LeetCode problems (Rating: 1844 - Knight)  
+- 🟢 900+ GeeksforGeeks problems  
+- 🟢 Strong in **Graphs, DP, System Design thinking**  
 
 ---
 
@@ -94,6 +111,24 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-2192&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
+---
+
+## 🏆 Certifications  
+
+- AWS Certified Cloud Practitioner (2025)  
+- AWS Certified AI Practitioner (2025)  
+
+---
+
+## 🤝 Let’s Connect  
+
+I’m always open to discussions on:
+- Backend engineering  
+- System design  
+- Distributed systems  
+
+📩 Reach out: **atulkumarsingh952@gmail.com**
 
 ---
 
