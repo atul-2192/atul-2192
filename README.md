@@ -81,7 +81,7 @@ Distributed backend platform built to experiment with scalable architectures.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=atul-2192&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=atul-2192&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=atul-2192&theme=chartreuse-dark&hide_border=true"/>
 
@@ -89,17 +89,61 @@ Distributed backend platform built to experiment with scalable architectures.
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-2192&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-2192&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atul-2192&theme=github_dark"/>
+
+</p>
+
+---
+
+# 📈 Contributions
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atul-2192&theme=github-dark&bg_color=0D1117&hide_border=true&color=00FF99&line=00FF99&point=FFFFFF&area=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Calendar
+
+<p align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atul-2192&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Overview
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atul-2192&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atul-2192&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atul-2192&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=atul-2192&theme=matrix&row=1&column=7&no-frame=true&margin-w=15"/>
 
 </p>
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atul-2192&theme=github-dark&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/atul-2192/atul-2192/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
----
 
 # 🧠 LeetCode
 
