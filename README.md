@@ -1,99 +1,105 @@
-<!-- ========================= HEADER ========================= -->
-
+<!-- Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Atul%20Kumar%20Singh&fontAlign=50&fontSize=40&fontColor=00FF99&color=0:050505,50:0b3d2e,100:14532d&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Atul%20Kumar%20Singh&fontAlign=50&fontSize=40&font=Roboto%20Mono&fontColor=00FFFF&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Backend+Engineer;Distributed+Systems;Java+%7C+Spring+Boot+%7C+Kafka;Performance+Engineering;System+Design+Enthusiast"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&duration=3500&color=00FFFF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%40+Cognizant;Distributed+Systems+%7C+Kafka+%7C+Spring+Boot;Building+Reliable+%26+Scalable+Systems;DSA+%7C+System+Design+%7C+Problem+Solving" />
 </p>
 
-<h3 align="center">
-Building scalable backend systems with Java, Spring Boot & Kafka 🚀
-</h3>
+<h3 align="center">⚡ Backend Engineer | Distributed Systems | Java • Spring Boot • Kafka • AWS</h3>
 
 <p align="center">
-<a href="mailto:atulkumarsingh952@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00FF99"/></a>
-<a href="https://linkedin.com/in/atulsingh2192"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FF99"/></a>
-<a href="https://github.com/atul-2192"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF99"/></a>
+  <a href="mailto:atulkumarsingh952@gmail.com"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00ffff" /></a>
+  <a href="https://linkedin.com/in/atulsingh2192"><img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=00ffff" /></a>
+  <a href="https://github.com/atul-2192"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=00ffff" /></a>
 </p>
 
 ---
 
-# 👋 About Me
+## 🧠 About Me  
 
-Backend Engineer passionate about building **distributed systems**, **event-driven architectures**, and **high-performance backend applications**.
+Backend Engineer at **Cognizant (Client: JP Morgan & Chase)** with hands-on experience building **high-throughput, fault-tolerant distributed systems**.
 
-- 🚀 Building scalable microservices with Java & Spring Boot
-- ⚡ Interested in Distributed Systems & System Design
-- 📊 Performance optimization & observability enthusiast
-- 💻 1600+ LeetCode problems solved (Knight)
+- ⚙️ Designed **retry orchestration & state management systems** for long-running workflows  
+- 📉 Reduced system failures by **85%** and improved retry performance by **15%**  
+- ⚡ Optimized APIs from **2.6s → 310ms latency** through deep production debugging  
+- 🧩 Strong in **data structures, system design, and scalable backend architecture**  
 
----
-
-# 🚀 Featured Projects
-
-## 🌟 Lamicons
-
-> Production-ready EdTech platform serving **3000+ active users**
-
-**Tech Stack**
-
-`Java` `Spring Boot` `Kafka` `Redis` `PostgreSQL` `MongoDB` `Docker` `AWS`
-
-- 8 Microservices
-- Event Driven Architecture
-- AI Roadmap Generator
-- Judge0 Integration
-- Redis Distributed Cache
-- Prometheus + Grafana + OpenTelemetry
+I enjoy solving **hard backend problems** — consistency, retries, latency, and distributed failures.
 
 ---
 
-## ⚡ SwitchBoard
+## 🏗️ What I Work On  
 
-Distributed backend platform built to experiment with scalable architectures.
+### 🔹 Distributed Systems Engineering
+- Event-driven architectures using **Kafka & RabbitMQ**
+- Idempotent workflows, retry strategies, and failure recovery
+- Async pipelines with S3-backed payload storage
 
-**Tech Stack**
+### 🔹 Backend Development
+- Java 17, Spring Boot 3.x, Spring WebFlux  
+- REST APIs, API Gateway, authentication systems (JWT, OAuth2)
 
-`Java` `Spring Boot` `Kafka` `RabbitMQ` `Redis` `Docker` `Kubernetes`
-
-- 7 Microservices
-- JWT + OAuth2
-- Distributed Tracing
-- CI/CD
-- Performance Optimization
-- Cloud Native Deployment
+### 🔹 Observability & Reliability
+- Distributed tracing, centralized logging  
+- Metrics: **p95 latency, error rate, system health**
+- Debugging production bottlenecks & performance issues  
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Featured Work  
+
+### 🔥 SwitchBoard — Distributed Microservices Platform
+- 7+ microservices with API Gateway architecture  
+- Centralized observability (logs, metrics, tracing)  
+- Reduced API latency by **84% (p90)**  
+- Secure auth with **JWT + OAuth2 + Redis TTL OTP**  
+- CI/CD pipelines with GitHub Actions  
+
+---
+
+### 🧠 Lamicons — Assessment & Learning Platform
+- Designed **8 microservices system** with service discovery  
+- Built **real-time coding engine (Judge0 integration)**  
+- Used Kafka to offload async workflows → improved throughput  
+- Applied **Strategy & Adapter patterns** for extensibility  
+- Mentoring **6 interns + 2 developers**
+
+---
+
+### ⚙️ System Design & Architecture
+- Outbox pattern for data consistency  
+- Event-driven pipelines for scalability  
+- Config management using Spring Cloud Config + AWS Parameter Store  
+
+---
+
+## 🛠️ Tech Stack  
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,mongodb,kafka,rabbitmq,aws,docker,kubernetes,git,linux&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,kafka,aws,docker,git&theme=dark" />
 </p>
+
+**Core Strengths**
+- Data Structures & Algorithms  
+- Distributed Systems  
+- Backend Optimization  
+- Debugging & Performance Tuning  
 
 ---
 
-# 📊 GitHub Analytics
+## ⚡ Problem Solving  
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=atul-2192&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=atul-2192&theme=chartreuse-dark&hide_border=true"/>
-
+  <img src="https://leetcard.jacoblin.cool/atulkumarsingh952?theme=dark&ext=heatmap" width="80%" />
 </p>
 
-<p align="center">
+- 🟢 1500+ LeetCode problems (Rating: 1844 - Knight)  
+- 🟢 900+ GeeksforGeeks problems  
+- 🟢 Strong in **Graphs, DP, System Design thinking**  
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-2192&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atul-2192&theme=github_dark"/>
-
-</p>
+---
 
 ## 📈 GitHub Stats  
 
@@ -108,92 +114,24 @@ Distributed backend platform built to experiment with scalable architectures.
 
 ---
 
----
+## 🏆 Certifications  
 
-# 📈 Contributions
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atul-2192&theme=github-dark&bg_color=0D1117&hide_border=true&color=00FF99&line=00FF99&point=FFFFFF&area=true"/>
-
-</p>
+- AWS Certified Cloud Practitioner (2025)  
+- AWS Certified AI Practitioner (2025)  
 
 ---
 
-# 🔥 GitHub Contribution Calendar
+## 🤝 Let’s Connect  
 
-<p align="center">
+I’m always open to discussions on:
+- Backend engineering  
+- System design  
+- Distributed systems  
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atul-2192&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-2192&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-# 🏆 GitHub Overview
-
-<p align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atul-2192&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atul-2192&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atul-2192&theme=github_dark"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=atul-2192&theme=matrix&row=1&column=7&no-frame=true&margin-w=15"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/atul-2192/atul-2192/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-# 🧠 LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/atulkumarsingh952?theme=dark&font=JetBrains+Mono&ext=heatmap" width="85%"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Knight-1844-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problems-1600+-00FF99?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Streak-1300%2B%20Days-success?style=for-the-badge"/>
-
-</p>
+📩 Reach out: **atulkumarsingh952@gmail.com**
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=atul-2192&style=for-the-badge&color=00FF99"/>
-
-</p>
-
-<p align="center">
-<i>"Build. Measure. Optimize. Repeat."</i>
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:14532d,100:050505"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" />
 </p>
