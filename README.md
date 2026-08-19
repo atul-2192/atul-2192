@@ -63,6 +63,10 @@ I enjoy solving complex engineering problems around **distributed systems, event
   />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-2192&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
 ---
 
 # 🔥 Contribution Heatmap
