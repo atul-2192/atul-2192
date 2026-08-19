@@ -1,91 +1,232 @@
+<!-- Header -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Atul%20Kumar%20Singh&fontAlign=50&fontSize=40&font=Roboto%20Mono&fontColor=00FFFF&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&duration=3500&color=00FFFF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%40+Cognizant;Distributed+Systems+%7C+Kafka+%7C+Spring+Boot;Building+Reliable+%26+Scalable+Systems;DSA+%7C+System+Design+%7C+Problem+Solving" />
+</p>
+
+<h3 align="center">
+  ⚡ Backend Engineer | Distributed Systems | Java • Spring Boot • Kafka • AWS
+</h3>
+
+<p align="center">
+  <a href="mailto:atulkumarsingh952@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00ffff" />
+  </a>
+  <a href="https://linkedin.com/in/atulsingh2192">
+    <img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=00ffff" />
+  </a>
+  <a href="https://github.com/atul-2192">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=00ffff" />
+  </a>
+</p>
+
+---
+
+## 🧠 About Me
+
+Backend Engineer at **Cognizant**, working with **JP Morgan & Chase**, focused on building reliable and scalable backend systems.
+
+I enjoy solving complex engineering problems around **distributed systems, event-driven architecture, performance, reliability, and failure recovery**.
+
+* ⚙️ Designed retry orchestration and state-management systems for long-running workflows
+* 📉 Reduced system failures by **85%**
+* ⚡ Improved retry performance by **15%**
+* 🚀 Optimized APIs from **2.6s → 310ms**
+* 🧩 Strong foundation in **DSA, System Design & Backend Architecture**
+* 🔥 Passionate about building systems that remain reliable under failure and scale
+
+> **I like solving hard backend problems — consistency, retries, latency, concurrency and distributed failures.**
+
+---
+
+# 📊 GitHub Stats
+
 <!--
-  palette — soft / warm / minimal
-  cream #FFF8F2 · clay #C97B63 · sand #E3C4B2 · warm grey #8A7A70
+  NOTE: using the official instance + 24h cache to avoid the
+  "Something went wrong" rate-limit error.
+  For a permanent fix, deploy your own instance and swap the host below.
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=20&pause=2000&color=C97B63&center=true&vCenter=true&width=520&lines=atul+kumar+singh;backend+engineer;building+quiet%2C+reliable+systems" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=atul-2192&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-2192&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <i>java · spring boot · kafka · distributed systems</i>
+  <img
+    src="https://streak-stats.demolab.com?user=atul-2192&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
+# 🔥 Contribution Heatmap
+
+<p align="center">
+  <img
+    src="https://gh-heat.anishroy.com/api/atul-2192/svg?colors=0d1117,0e4429,006d32,26a641,39d353&darkMode=true&transparent=true&shape=square&radius=2&borderWidth=0&cellSize=11&cellGap=3&padding=8&fontSize=10&textColor=8b949e&showMonthLabels=true&showDayLabels=true&showLegend=true&legendPos=bottom&width=1000"
+    alt="Atul Kumar Singh GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/atulsingh2192"><img src="https://img.shields.io/badge/linkedin-E3C4B2?style=flat-square&logoColor=6B5B52&labelColor=E3C4B2&color=E3C4B2" /></a>
-  <a href="https://leetcode.com/u/atulkumarsingh952"><img src="https://img.shields.io/badge/leetcode-EBD9CC?style=flat-square&logoColor=6B5B52&labelColor=EBD9CC&color=EBD9CC" /></a>
-  <a href="mailto:atulkumarsingh952@gmail.com"><img src="https://img.shields.io/badge/email-F2E4DA?style=flat-square&logoColor=6B5B52&labelColor=F2E4DA&color=F2E4DA" /></a>
+  <i>Consistently building, learning and contributing.</i>
 </p>
 
-<p align="center">·　·　·</p>
+---
+
+# 🚀 Featured Projects
+
+## 🔥 SwitchBoard — Distributed Microservices Platform
+
+A production-oriented distributed platform built around microservices, event-driven communication and centralized observability.
+
+### Highlights
+
+* 🏗️ **7+ microservices** with API Gateway architecture
+* ⚡ Reduced API latency by **84% (p90)**
+* 🔐 Authentication using **JWT + OAuth2**
+* 📱 OTP authentication with **Redis TTL**
+* 📨 Event-driven communication using **Kafka**
+* 📊 Centralized logs, metrics and distributed tracing
+* 🚀 CI/CD pipelines using **GitHub Actions**
+* 🧩 Designed for scalability and fault tolerance
+
+**Architecture & Patterns**
+
+`Microservices` • `Kafka` • `Redis` • `PostgreSQL` • `Docker` • `Nginx` • `Prometheus` • `Grafana` • `Loki` • `Tempo`
+
+---
+
+## 🧠 Lamicons — Assessment & Learning Platform
+
+A scalable EdTech platform supporting assessments, coding contests, learning workflows and multiple user workspaces.
+
+### Highlights
+
+* 🏗️ Designed an **8-microservice architecture**
+* 🔎 Service discovery and API Gateway
+* 💻 Built a **real-time coding engine** using Judge0
+* 📨 Kafka-based asynchronous workflows
+* ⚡ Redis caching and performance optimization
+* 🧩 Strategy & Adapter patterns for extensibility
+* 📈 Designed production observability using Prometheus & Grafana
+* 👨‍💻 Mentoring **6 interns + 2 developers**
+
+**Architecture**
+
+`Java 17` • `Spring Boot` • `Kafka` • `PostgreSQL` • `Redis` • `MongoDB` • `Docker` • `AWS`
+
+---
+
+# ⚙️ System Design & Engineering
+
+Some of the backend concepts I work with:
+
+* Event-driven architecture
+* Distributed systems
+* Kafka-based asynchronous processing
+* Retry orchestration
+* Idempotency & failure recovery
+* Outbox pattern
+* Distributed tracing
+* Centralized logging
+* API performance optimization
+* Redis caching & TTL strategies
+* Database indexing & query optimization
+* Spring Cloud Config
+* AWS Parameter Store
+* Microservices communication
+
+---
+
+# 🧩 Tech Stack
 
 <p align="center">
-  Backend engineer at Cognizant, working with JP Morgan Chase.<br>
-  I like the unglamorous parts of systems — retries, idempotency,<br>
-  latency, and what happens when things fail.
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,kafka,aws,docker,git&theme=dark" />
 </p>
 
+### Backend
+
+`Java 17` • `Spring Boot` • `Spring WebFlux` • `Spring Cloud` • `REST APIs`
+
+### Distributed Systems
+
+`Kafka` • `RabbitMQ` • `Redis` • `Microservices` • `Event-Driven Architecture`
+
+### Databases
+
+`PostgreSQL` • `MySQL` • `MongoDB`
+
+### Cloud & DevOps
+
+`AWS` • `Docker` • `Nginx` • `GitHub Actions`
+
+### Observability
+
+`Prometheus` • `Grafana` • `Loki` • `Tempo`
+
+---
+
+# 🧠 Problem Solving
+
 <p align="center">
-  <sub>failures ↓ 85% &nbsp;·&nbsp; api 2.6s → 310ms &nbsp;·&nbsp; retries ↑ 15%</sub>
+  <img
+    src="https://leetcard.jacoblin.cool/atulkumarsingh952?theme=dark&ext=heatmap"
+    width="80%"
+  />
 </p>
 
-<p align="center">·　·　·</p>
+### Competitive Programming
+
+* 🟢 **1500+ LeetCode problems**
+* 🏆 **LeetCode Knight**
+* 📈 **1844 Rating**
+* 🟢 **900+ GeeksforGeeks problems**
+* 🧠 Strong in **Graphs, Dynamic Programming, Trees & Problem Solving**
+
+> DSA is not just preparation for interviews — it helps me approach engineering problems by breaking them into smaller, solvable pieces.
+
+---
+
+# 🏆 Certifications
+
+* ☁️ AWS Certified Cloud Practitioner — 2025
+* 🤖 AWS Certified AI Practitioner — 2025
+
+---
+
+# 🤝 Let's Connect
+
+I'm always open to discussions around:
+
+* Backend Engineering
+* Distributed Systems
+* System Design
+* Java & Spring Boot
+* Kafka & Event-Driven Architecture
+* DSA & Problem Solving
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,redis,aws,docker,grafana&theme=light&perline=8" width="70%" />
+  <a href="mailto:atulkumarsingh952@gmail.com">
+    📩 <b>atulkumarsingh952@gmail.com</b>
+  </a>
 </p>
 
-<p align="center">·　·　·</p>
+---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=atul-2192&show_icons=true&include_all_commits=true&hide_border=true&border_radius=14&bg_color=FFF8F2&title_color=C97B63&icon_color=D9A48F&text_color=8A7A70" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-2192&layout=compact&langs_count=5&hide_border=true&border_radius=14&bg_color=FFF8F2&title_color=C97B63&text_color=8A7A70" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=atul-2192&hide_border=true&border_radius=14&background=FFF8F2&ring=C97B63&fire=C97B63&currStreakLabel=C97B63&sideLabels=8A7A70&dates=B5A79D&currStreakNum=6B5B52&sideNums=6B5B52" />
-</p>
-
-<p align="center">
-  <img src="https://gh-heat.anishroy.com/api/atul-2192/svg?colors=f7ece4,ecd6c8,dfb49c,cf8f74,c2705a&transparent=true&shape=square&radius=3&borderWidth=0&cellSize=11&cellGap=3&padding=8&fontSize=10&textColor=a3948a&showMonthLabels=true&showDayLabels=false&showLegend=true&legendPos=bottom&width=900" width="92%" />
-</p>
-
-<p align="center">·　·　·</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/atulkumarsingh952?theme=light&font=Poppins&ext=heatmap&radius=14&width=500" width="72%" />
-</p>
-
-<p align="center">
-  <sub>knight · 1844 rating · 1500+ solved · graphs, dp, trees</sub>
-</p>
-
-<p align="center">·　·　·</p>
-
-<p align="center"><b>switchboard</b></p>
-
-<p align="center">
-  A distributed platform of 7 microservices behind a gateway,<br>
-  talking over Kafka. Cut p90 latency by 84%.<br>
-  <sub>spring boot · kafka · redis · postgres · docker · grafana</sub>
-</p>
-
-<br>
-
-<p align="center"><b>lamicons</b></p>
-
-<p align="center">
-  An 8-service learning platform with a real-time coding engine<br>
-  and Kafka-driven assessment workflows.<br>
-  <sub>java 17 · kafka · mongodb · redis · aws</sub>
-</p>
-
-<p align="center">·　·　·</p>
-
-<p align="center">
-  <sub><i>currently reading about consensus, and rewriting things that already work.</i></sub>
-</p>
-
-<p align="center">
-  <sub>atulkumarsingh952@gmail.com</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" />
 </p>
