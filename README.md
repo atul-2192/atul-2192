@@ -47,11 +47,11 @@ I enjoy solving complex engineering problems around **distributed systems, event
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=atul-2192&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atul-2192&theme=github_dark"
     height="170"
   />
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atul-2192&layout=compact&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atul-2192&theme=github_dark"
     height="170"
   />
 </p>
@@ -69,7 +69,7 @@ I enjoy solving complex engineering problems around **distributed systems, event
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/00ffff/atul-2192"
+    src="https://ghchart.rshah.org/39d353/atul-2192"
     alt="Atul Kumar Singh GitHub Contribution Graph"
     width="95%"
   />
