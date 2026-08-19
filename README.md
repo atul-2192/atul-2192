@@ -63,19 +63,15 @@ I enjoy solving complex engineering problems around **distributed systems, event
   />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-2192&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
 ---
 
 # 🔥 Contribution Heatmap
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/39d353/atul-2192"
+    src="https://gh-heat.anishroy.com/api/atul-2192/svg?colors=0d1117,0e4429,006d32,26a641,39d353&darkMode=true&transparent=true&shape=square&radius=2&borderWidth=0&cellSize=11&cellGap=3&padding=8&fontSize=10&textColor=8b949e&showMonthLabels=true&showDayLabels=true&showLegend=true&legendPos=bottom&width=1000"
     alt="Atul Kumar Singh GitHub Contribution Graph"
-    width="95%"
+    width="100%"
   />
 </p>
 
