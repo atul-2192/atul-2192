@@ -51,23 +51,9 @@ I enjoy solving complex engineering problems around **distributed systems, event
   For a permanent fix, deploy your own instance and swap the host below.
 -->
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=atul-2192&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-2192&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="170"
-  />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atul-2192&theme=github_dark" height="170" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atul-2192&theme=github_dark" height="170" /> </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=atul-2192&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-2192&theme=tokyonight&hide_border=true" height="180" /> </p>
 
 ---
 
